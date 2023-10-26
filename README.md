@@ -1,4 +1,4 @@
-# data-enrichment-wk13-l01-activity
+# data-enrichment-wk17-l01-activity
  
 >For today’s activity, you are going to be walking through all of the steps required for your first Core assignment, but with a different database.
 
